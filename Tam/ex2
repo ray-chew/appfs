@@ -1,2 +1,0 @@
-#/bin/bash
-python exercise2code.py $1 $2 $3

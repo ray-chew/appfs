@@ -1,4 +1,0 @@
-#!/bin/bash
-clear
-javac Ex2.java
-java Ex2 $1 $2
